@@ -1,0 +1,2 @@
+john,password,john@email.com
+egg,egg,egg@egg.com
